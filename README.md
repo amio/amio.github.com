@@ -1,4 +1,4 @@
-amio.github.com
+amio.github.io
 ===============
 
 Amio on Github
