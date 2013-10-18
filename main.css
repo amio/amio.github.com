@@ -224,7 +224,6 @@ section h4 {
 	line-height: 2em;
 	padding-top: 1em;
 	margin: 0 30px;
-	border-bottom: 2px solid rgba(255,255,255,0.4);
 }
 
 section h4 span {
@@ -235,13 +234,16 @@ section i {
 	display: block;
 	opacity: 0;
 	padding-bottom: 20px;
-	font-size: 16px;
-	line-height: 40px;
+	margin: 0 40px;
+	font-size: 18px;
+	line-height: 30px;
 	transition: all 0.4s ease;
+	border-top: 1px solid rgba(255,255,255,0.6);
+	letter-spacing: 0.1em;
 }
 
 section > a:hover i {
-	opacity: 0.8;
+	opacity: 0.6;
 }
 
 section p {
