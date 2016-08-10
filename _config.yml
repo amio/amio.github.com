@@ -1,0 +1,20 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+
+# Setup
+title:               Amio on Github
+tagline:             'Tools, projects, things on github by Amio.'
+description:         'What are you looking for?'
+url:                 https://amio.github.io
+baseurl:             ''
+
+# About/contact
+author:
+  name:              Amio
+  url:               https://twitter.com/amiocn
+  email:             amio.cn@gmail.com
+
+# Custom vars
+version:             1.0.0
