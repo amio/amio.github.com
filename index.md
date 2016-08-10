@@ -4,7 +4,7 @@ title : Projects
 ---
 
 <style>
-  li { margin-top: 1em }
+  h1, li { margin-top: 1em }
   strong a { font-family: Roboto, sans-serif }
   em { color: #ccc }
   p { color: #444 }
