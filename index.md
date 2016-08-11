@@ -15,7 +15,7 @@ title : Projects
 - **[amio/flaming-disk-usage](https://github.com/amio/flaming-disk-usage/)** *node cli*  
   Inspect disk usage with flame graph.
 
-- **[amio/nace](https://github.com/amio/gh-index/)** *node cli*  
+- **[amio/nace](https://github.com/amio/nace/)** *node cli*  
   Node.js access logger.
 
 - **[amio/node-pingrace](https://github.com/amio/node-pingrace/)** *node cli*  
