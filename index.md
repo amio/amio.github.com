@@ -15,9 +15,6 @@ title : Projects
 - **[amio/flaming-disk-usage](https://github.com/amio/flaming-disk-usage/)** *node cli*  
   Inspect disk usage with flame graph.
 
-- **[amio/nace](https://github.com/amio/nace/)** *node cli*  
-  Node.js access logger.
-
 - **[amio/node-pingrace](https://github.com/amio/node-pingrace/)** *node cli*  
   A ping race program.
 
@@ -27,13 +24,19 @@ title : Projects
 - **[amio/node-orn](https://github.com/amio/node-orn/)** *node cli*  
   Oh Rename - Batch rename files with RegExp.
 
+- **[amio/nace](https://github.com/amio/nace/)** *node cli*  
+  Node.js access logger.
+
 ### JavaScript lib/components
+
+- **[amio/console.js](https://github.com/amio/console.js/)** *js lib*  
+  A game console for browsers. [demo](http://amio.github.io/console.js/)
 
 - **[amio/re-carousel](https://github.com/amio/re-carousel/)** *react component*  
   React carousel component, simplified. 2KB gzipped, zero dependency. [demo](https://amio.github.io/re-carousel/)
 
-- **[amio/console.js](https://github.com/amio/console.js/)** *js lib*  
-  A game console for browsers. [demo](http://amio.github.io/console.js/)
+- **[amio/attempts](https://github.com/amio/attempts/)** *js module*  
+  Try function with different args.
 
 - **[amio/gh-index](https://github.com/amio/gh-index/)** *js lib*  
 A directory index for gh-pages branch. [demo](http://amio.github.io/gh-index/)
