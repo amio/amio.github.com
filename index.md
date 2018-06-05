@@ -10,6 +10,21 @@ title : Projects
   p { color: #444 }
 </style>
 
+### Microservices
+
+- **font-mess** https://mess.now.sh/ 
+  Obscure text with messed font.
+
+- **page-shot** https://shot.now.sh/ 
+  Pageshot as a service.
+
+- **embeded google fonts** https://amio.github.io/embedded-google-fonts/  
+  Embedded (base64 encoded) google fonts into css.
+
+- **badgen** https://badgen.now.sh/  
+  Fast, handcraft, pure JavaScript badge generator.
+
+
 ### Node.js clis
 
 - **[amio/flaming-disk-usage](https://github.com/amio/flaming-disk-usage/)** *node cli*  
