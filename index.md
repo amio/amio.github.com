@@ -18,13 +18,13 @@ title : Projects
 - **page-shot** [https://shot.now.sh/]()  
   Pageshot as a service.
 
-- **badgen** https://badgen.now.sh/  
+- **badgen** [https://badgen.now.sh/]()  
   Fast, handcraft, pure JavaScript badge generator.
 
-- **embeded google fonts** https://amio.github.io/embedded-google-fonts/  
+- **embeded google fonts** [https://amio.github.io/embedded-google-fonts/]() *web util*  
   Embedded (base64 encoded) google fonts into css.
 
-- **base64 conv** http://amio.github.io/base64/ *web util*  
+- **base64 conv** [http://amio.github.io/base64/]() *web util*  
   A handy tool for encoding text or file to base64 string. [page](http://amio.github.io/base64/)
 
 
@@ -32,6 +32,9 @@ title : Projects
 
 - **[amio/nls](https://github.com/amio/nls/)**
   Missing inspector for npm packages.
+
+- **[amio/nrm](https://github.com/amio/nrm/)**
+  Light weight npm registry manager.
   
 - **[amio/flaming-disk-usage](https://github.com/amio/flaming-disk-usage/)**
   Inspect disk usage with flame graph.
@@ -40,7 +43,7 @@ title : Projects
   A ping race program.
 
 - **[amio/node-submod](https://github.com/amio/node-submod/)**
-  A subtitle(ass/srt) toolkit for modifing synchronization, encoding, etc.
+  A subtitle(ass/srt) toolkit for synchronization, encoding.
 
 - **[amio/node-orn](https://github.com/amio/node-orn/)**
   Oh Rename - Batch rename files with RegExp.
@@ -57,7 +60,7 @@ title : Projects
   A game console for browsers. [demo](http://amio.github.io/console.js/)
 
 - **[amio/re-carousel](https://github.com/amio/re-carousel/)**
-  React carousel component, simplified. 2KB gzipped, zero dependency. [demo](https://amio.github.io/re-carousel/)
+  React carousel component, simplified. [demo](https://amio.github.io/re-carousel/)
 
 - **[amio/attempts](https://github.com/amio/attempts/)**
   Try function with different args.
