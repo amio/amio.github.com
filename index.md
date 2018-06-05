@@ -12,20 +12,20 @@ title : Code Works
 
 ### Microservices
 
-- **font-mess** [https://mess.now.sh/]()  
+- **font-mess** [https://mess.now.sh/](https://mess.now.sh/)  
   Obscure text with messed font.
 
-- **page-shot** [https://shot.now.sh/]()  
+- **page-shot** [https://shot.now.sh/](https://shot.now.sh/)  
   Pageshot as a service.
 
-- **badgen** [https://badgen.now.sh/]()  
+- **badgen** [https://badgen.now.sh/](https://badgen.now.sh/)  
   Fast, handcraft, pure JavaScript badge generator.
 
-- **embeded google fonts** [https://amio.github.io/embedded-google-fonts/]()  
+- **embeded google fonts** [https://amio.github.io/embedded-google-fonts/](https://amio.github.io/embedded-google-fonts/)  
   Embedded (base64 encoded) google fonts into css.
 
-- **base64 conv** [http://amio.github.io/base64/]()  
-  A handy tool for encoding text or file to base64 string. [page](http://amio.github.io/base64/)
+- **base64 conv** [https://amio.github.io/base64/](https://amio.github.io/base64/)  
+  A handy tool for encoding text or file to base64 string.
 
 
 ### Node.js cli
