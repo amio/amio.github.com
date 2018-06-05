@@ -1,6 +1,6 @@
 ---
 layout: page
-title : Projects
+title : Code Works
 ---
 
 <style>
@@ -21,10 +21,10 @@ title : Projects
 - **badgen** [https://badgen.now.sh/]()  
   Fast, handcraft, pure JavaScript badge generator.
 
-- **embeded google fonts** [https://amio.github.io/embedded-google-fonts/]() *web util*  
+- **embeded google fonts** [https://amio.github.io/embedded-google-fonts/]()  
   Embedded (base64 encoded) google fonts into css.
 
-- **base64 conv** [http://amio.github.io/base64/]() *web util*  
+- **base64 conv** [http://amio.github.io/base64/]()  
   A handy tool for encoding text or file to base64 string. [page](http://amio.github.io/base64/)
 
 
