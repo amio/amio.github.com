@@ -12,10 +12,10 @@ title : Projects
 
 ### Microservices
 
-- **font-mess** https://mess.now.sh/ 
+- **font-mess** https://mess.now.sh/  
   Obscure text with messed font.
 
-- **page-shot** https://shot.now.sh/ 
+- **page-shot** https://shot.now.sh/  
   Pageshot as a service.
 
 - **embeded google fonts** https://amio.github.io/embedded-google-fonts/  
@@ -27,6 +27,9 @@ title : Projects
 
 ### Node.js clis
 
+- **[amio/nls](https://github.com/amio/nls/)** *node cli*  
+  Missing inspector for npm packages.
+  
 - **[amio/flaming-disk-usage](https://github.com/amio/flaming-disk-usage/)** *node cli*  
   Inspect disk usage with flame graph.
 
