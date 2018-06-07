@@ -18,9 +18,6 @@ title : Code Works
 - **marked** [https://md.now.sh/](https://md.now.sh/)  
   Micro service for markdown rendering.
 
-- **page-shot** [https://shot.now.sh/](https://shot.now.sh/)  
-  Pageshot as a service.
-
 - **badgen** [https://badgen.now.sh/](https://badgen.now.sh/)  
   Fast, handcraft, pure JavaScript badge generator.
 
