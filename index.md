@@ -24,17 +24,17 @@ title : Code Works
 - **badgen** [https://badgen.now.sh/](https://badgen.now.sh/)  
   Fast, handcraft, pure JavaScript badge generator.
 
-- **qr** [https://qr.now.sh/](https://qr.now.sh/)  
-  Handy qr generator.
-
 - **shu** [https://shu.now.sh/](https://shu.now.sh/)  
   Convert arabic number to chinese number.
 
-- **embeded google fonts** [https://amio.github.io/embedded-google-fonts/](https://amio.github.io/embedded-google-fonts/)  
-  Embedded (base64 encoded) google fonts into css.
+- **qr** [https://qr.now.sh/](https://qr.now.sh/)  
+  Handy qr generator.
 
 - **base64 conv** [https://amio.github.io/base64/](https://amio.github.io/base64/)  
   A handy tool for encoding text or file to base64 string.
+
+- **embeded google fonts** [https://amio.github.io/embedded-google-fonts/](https://amio.github.io/embedded-google-fonts/)  
+  Embedded (base64 encoded) google fonts into css.
 
 
 ### Node.js cli
