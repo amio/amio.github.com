@@ -15,11 +15,20 @@ title : Code Works
 - **font-mess** [https://mess.now.sh/](https://mess.now.sh/)  
   Obscure text with messed font.
 
+- **marked** [https://md.now.sh/](https://md.now.sh/)  
+  Micro service for markdown rendering.
+
 - **page-shot** [https://shot.now.sh/](https://shot.now.sh/)  
   Pageshot as a service.
 
 - **badgen** [https://badgen.now.sh/](https://badgen.now.sh/)  
   Fast, handcraft, pure JavaScript badge generator.
+
+- **qr** [https://qr.now.sh/](https://qr.now.sh/)  
+  Handy qr generator.
+
+- **shu** [https://shu.now.sh/](https://shu.now.sh/)  
+  Convert arabic number to chinese number.
 
 - **embeded google fonts** [https://amio.github.io/embedded-google-fonts/](https://amio.github.io/embedded-google-fonts/)  
   Embedded (base64 encoded) google fonts into css.
