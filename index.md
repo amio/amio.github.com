@@ -49,7 +49,7 @@ title : Code Works
   A ping race program.
 
 - **[amio/node-submod](https://github.com/amio/node-submod/)**
-  A subtitle(ass/srt) toolkit for synchronization, encoding.
+  A subtitle(ass/srt) toolkit for synchronization.
 
 - **[amio/node-orn](https://github.com/amio/node-orn/)**
   Oh Rename - Batch rename files with RegExp.
