@@ -28,7 +28,7 @@ title : Code Works
   Convert arabic number to chinese number.
 
 - **qr** [https://qr.now.sh/](https://qr.now.sh/)  
-  Handy qr generator.
+  Handy QR code generator.
 
 - **base64 conv** [https://amio.github.io/base64/](https://amio.github.io/base64/)  
   A handy tool for encoding text or file to base64 string.
