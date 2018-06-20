@@ -41,6 +41,9 @@ title : Code Works
 
 - **[amio/nrm](https://github.com/amio/nrm/)**
   Light weight npm registry manager.
+
+- **[amio/qr-cli](https://github.com/amio/qr-cli/)**
+  Minimal viable qr code generator in terminal.
   
 - **[amio/flaming-disk-usage](https://github.com/amio/flaming-disk-usage/)**
   Inspect disk usage with flame graph.
